@@ -26,6 +26,8 @@ Ziqian Wang - git username: ZiqianWPort
 $ curl --silent --location https://rpm.nodesource.com/setup_16.x | sudo bash -
 $ sudo yum install -y nodejs
 ```
-4. 
+
+4. After you have the server instance set up and ready, download the code from github and store it in a desired repository on your server, and go to that directory by calling cd directory/
+5. 
 
 
