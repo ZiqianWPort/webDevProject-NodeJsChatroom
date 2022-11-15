@@ -1,6 +1,3 @@
-# CSE330
-Jeffrey Wang - 497952 - jeffreyw2021
-
 Creative portion:
 
 1. Users can send an online image to everyone in the chatroom. To do so, they will enter the URL of the image in the text area with placeholder text 'send picture with URL'. The width of the images will be automatically resized to 250px for best UI display purpose.
