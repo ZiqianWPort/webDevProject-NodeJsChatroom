@@ -38,5 +38,10 @@ $ sudo yum install -y nodejs
   node chat-server.js
   ```
   
-6. 
+6. Finally, on your desired web browser, go to<br>
+
+```
+http://replace-this-with-your-server-url:3456
+```
+then you will be able try this project out!
 
