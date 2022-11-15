@@ -43,5 +43,7 @@ $ sudo yum install -y nodejs
 ```
 http://replace-this-with-your-server-url:3456
 ```
-then you will be able try this project out!
-
+then you will be able try to this project out!<br>
+</p>
+<p>
+My apologies if the above steps seemed too confusing. Like my other web dev projects that are developed as coding pratices and rapid prototypes, there are many constraints when it comes to trying out the code on a new user's computer. But in the near future, I'll have a continuously running server instance to store and display all of my works! Bear with me and we'll be there soon!
