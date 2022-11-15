@@ -30,7 +30,7 @@ $ sudo yum install -y nodejs
 4. After you have the server instance set up and ready, download the code from github and store it in a desired repository on your server, and go to that directory by calling:
 
   ```
-  cd /your_directory/directory
+  cd /followed/by/your/directory
   ```
 5. 
 
